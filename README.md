@@ -5,7 +5,7 @@ Building production-grade systems for synthetic environments, procedural generat
 
 ---
 
-## 🏆 Domains of Expertise
+##   Domains of Expertise
 
 - Computer Vision & Semantic Segmentation
 - Synthetic Data Pipelines for Sensor Simulation
@@ -66,7 +66,7 @@ Automated texture assignment and multi-layer export for FLT assets in simulation
 
 ## 🎬 Field Deployment
 
-**VanishingPoint Vector** — deployed and operationalized a professional depth-sensor camera tracking system for live broadcast production in Israel.
+**VanishingPoint xyz Vector** — deployed and operationalized a professional depth-sensor camera tracking system for live broadcast production in Israel.
 
 - Visual-inertial tracking with neural network depth map calculation
 - Real-time 6DoF localization, lens calibration, live Unreal Engine compositing
@@ -94,13 +94,13 @@ Automated texture assignment and multi-layer export for FLT assets in simulation
 
 ---
 
-## 💡 Philosophy
+##   Philosophy
 
 Reduce manual complexity. Preserve visual realism. Scale engineering output.  
 Focused on systems that deliver production-grade results, not experiments.
 
 ---
 
-## 📫 Contact
+##    Contact
 
 🌐 [behance.net/EAEinav](https://behance.net/EAEinav) · ✉️ Eldadeinav@gmail.com
