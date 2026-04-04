@@ -1,79 +1,64 @@
-Eldad Einav
+# Eldad Einav
 
-Senior 3D Simulation Designer | AI Developer | Computer Vision | Synthetic Data
+**3D Simulation Designer · AI/CV Developer · Synthetic Data**
 
-Designing technical systems for simulation, synthetic environments, and production-grade visual pipelines.
-
----
-
-Focus
-
-- Synthetic Data Systems
-- Computer Vision Pipelines
-- Simulation Asset Automation
-- Multi-Sensor Material Workflows
-- Procedural Visual Generation
-- OpenFlight Production Pipelines
+I build production pipelines where 3D geometry, computer vision, and simulation infrastructure meet.
+Most of my work lives inside military simulation environments — synthetic rendering, IR material systems, and large-scale asset automation.
+On the side: architectural texture generation, freelance 3D, and teaching animation.
 
 ---
 
-Selected Technical Systems
+## Projects
 
-IR Segmentation Training Suite
-
-End-to-end infrared segmentation training pipeline designed for simulation environments.
-
-- Synthetic terrain-class generation
-- IR domain adaptation workflows
-- Training diagnostics and prediction validation
+### [OpenFlight Visual Automation](https://github.com/EldadEinav/OpenFlight-Visual-Automation)
+Batch RGB/IR texture assignment and export pipeline for simulation-grade `.flt` assets.
+Handles multi-layer material linking across thousands of geometry nodes without touching scene structure.
+`Python` · `3ds Max / pymxs` · `OpenFlight`
 
 ---
 
-Facade Texture Pro
-
-Multi-stage AI pipeline for generating simulation-ready architectural surfaces.
-
-- Geographic facade adaptation
-- Material-aware segmentation
-- RGB / IR / PBR outputs
+### IR Segmentation Training Suite
+End-to-end training pipeline for infrared terrain segmentation.
+17 custom off-road terrain classes. Built on SegFormer-B5 with domain adaptation for synthetic-to-real transfer.
+Includes a full diagnostics dashboard and per-class validation metrics.
+`Python` · `PyTorch` · `SegFormer` · `OpenCV`
 
 ---
 
-3D Asset Manager
-
-Structured asset infrastructure for simulation production workflows.
-
-- Variant logic
-- Metadata handling
-- Export control
+### X-File Texture Swapper
+Batch texture replacement tool for 2,400+ DirectX `.x` mesh files used in the AGM simulation platform.
+Session save/load, dry-run preview, thumbnail support, CSV reporting.
+`Python` · `PySide6`
 
 ---
 
-OpenFlight Visual Automation
-
-Automated RGB / IR layer assignment and export preparation for simulation assets.
-
-- Linked material logic
-- Layer-safe export
-- Batch workflow integration
+### T-verse Asset Manager
+3-panel desktop asset manager for simulation production workflows.
+Handles variant trees, metadata, texture preview, and XML export — built on top of SQLite.
+`Python` · `PyQt5` · `SQLite`
 
 ---
 
-Technical Stack
-
-Python · PyTorch · OpenCV · PySide6 · Unreal Engine · OpenFlight · SAM2 · SegFormer · GLSL
-
----
-
-Engineering Direction
-
-Building production systems where visual fidelity, automation, and simulation reliability intersect.
-
-Focused on deployable technical products rather than isolated tools.
+### Facade Texture Pro
+Multi-stage AI pipeline for architectural surface generation.
+Connects ComfyUI (FLUX/SDXL), SAM2, Grounding DINO, and SAHI into a 7-tab PySide6 app.
+Outputs RGB, IR, and PBR texture sets from a single facade image.
+`Python` · `PySide6` · `ComfyUI` · `SAM2`
 
 ---
 
-Contact
+## Stack
 
-behance.net/EAEinav
-Eldadeinav@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## Links
+
+[Behance Portfolio](https://www.behance.net/EAEinav) · [eldadeinav@gmail.com](mailto:eldadeinav@gmail.com)
