@@ -25,3 +25,5 @@ Freelance background in tech, broadcast, and XR.
 ## Links
 
 [Behance Portfolio](https://www.behance.net/EAEinav) · [eldadeinav@gmail.com](mailto:eldadeinav@gmail.com)
+[linkedin]
+https://www.linkedin.com/in/eldad-einav-a33089289
