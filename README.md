@@ -2,8 +2,7 @@
 
 **Senior 3D Simulation Designer · AI Developer · Computer Vision · Synthetic Data**
 
-building production pipelines , synthetic data, computer vision, and real-time visualization.
-Currently focused on simulation tooling and AI/CV pipelines for defense platforms.
+Designing simulation environments, synthetic data pipelines, and computer vision tooling for defense platforms.
 Freelance background in tech, broadcast, and XR.
 
 ---
@@ -24,7 +23,4 @@ Freelance background in tech, broadcast, and XR.
 
 ## Links
 
-Eldadeinav@gmail.com 
-[Behance Portfolio](https://www.behance.net/EAEinav)
-[linkedin]
-[(https://www.linkedin.com/in/eldadeinav)](https://www.linkedin.com/in/eldad-einav-a33089289)
+[Behance](https://www.behance.net/EAEinav) · [LinkedIn](https://www.linkedin.com/in/eldad-einav-a33089289) · [eldadeinav@gmail.com](mailto:eldadeinav@gmail.com)
